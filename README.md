@@ -1,5 +1,14 @@
-## Hi there 👋
+<h1 align="center"> ¡Hola! Bienvenido a mi perfil </h1>
+Soy Lucía Rosales, estudiante de Ingeniería Informática en la Universidad de León. Los proyectos en los que estoy trabajando o he trabajado se alojan aquí.
 
+## Herramientas
+
+### Lenguajes 
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css)](https://skillicons.dev)
+### DevOps 
+[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,replit)](https://skillicons.dev)
+### Otros 
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 <!--
 **rosalezz/rosalezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
