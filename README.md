@@ -6,11 +6,11 @@ Welcome to my profile! 👋 I'm Lucía Rosales, a Computer Science student @ Uni
 ## 🔧Herramientas / Skills
 
 ### 📚 Lenguajes 
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css)]
 ### 🎨 DevOps 
-[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,replit)]
 ### 🌱 Otros 
-[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion)]
 
 ## 📫 Contacto
 Reach me at: lrosad00@estudiantes.unileon.es
