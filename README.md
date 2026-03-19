@@ -1,6 +1,6 @@
 <h1 align="center"> ¡Hola! Bienvenido a mi perfil </h1>
 👋Soy Lucía Rosales, estudiante de Ingeniería Informática en la Universidad de León. Los proyectos 🔭 en los que estoy trabajando o he trabajado se alojan aquí.
-
+      
 Welcome to my profile! 👋 I'm Lucía Rosales, a Computer Science student @ Universidad de León. The projects 🔭 I'm working on/have worked on in the past are all here.
 
 ## 🔧Herramientas / Skills
